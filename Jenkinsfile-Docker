@@ -1,0 +1,6 @@
+@Library('todo') _
+
+docker (
+        COMPONENT             : 'frontend',
+        PROJECT_NAME          : "todo"
+)
